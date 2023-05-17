@@ -7,11 +7,11 @@
 	<packaging>war</packaging>
 	<version>3.0.0-SNAPSHOT</version>
 	
-	<name>maven-web-application</name>
-		<name>JOMACS IT SOLUTIONS</name>
 
 	<description>Maven Web Project for Java Project</description>
 
+	<name>maven-web-application</name>
+		<name>JOMACS IT SOLUTIONS</name>
 	<organization>
 		<url>http://jomacsit.com/</url>
 	</organization>
